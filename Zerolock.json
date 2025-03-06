@@ -1,27 +1,21 @@
-     {
-    "name": "Shisuy's source",
-    "downloads": [
-        {
-            "title": "Haydee 3 Free Download (v1.0.20.1523)",
-            "uris": [
-                "https://1fichier.com/?1gkik9mto0qr464feh53",
-                "https://pixeldrain.com/u/vWUxw2Hz",
-                "https://www.mediafire.com/file/u5r5ku3won3g22j/Haydee.3.v.1.0.20.1523.zip/file"
-            ],
-            "fileSize": "5.80 GB",
-            "uploadDate": "2025-03-04T16:27:07.446085"
-			},
-            {
-			"title": "Haydee 2 Free Download (v1.0.20.1523)",
-            "uris": [
-                "https://1fichier.com/?1gkik9mto0qr464feh53",
-                "https://pixeldrain.com/u/vWUxw2Hz",
-                "https://www.mediafire.com/file/u5r5ku3won3g22j/Haydee.3.v.1.0.20.1523.zip/file"
-            ],
-            "fileSize": "5.80 GB",
-            "uploadDate": "2025-03-04T16:27:07.446085"	
-			
-
-        }
-    ]
+{
+  "name": "Zerolock",
+  "downloads": [
+    {
+      "title": "Starfield v.1.10.31.0 [Папка игры] (2023)  ",
+      "uris": [
+        "magnet:?xt=urn:btih:adebde6a29fb2325f081458f5b7f273ff8546ce1"
+      ],
+      "uploadDate": "2024-04-19T23:00:00.000Z",
+      "fileSize": "147.86 GB"
+    },
+    {
+      "title": "Stardew Valley v.1.6.1.24080 [GOG] (2016) Лицензия ",
+      "uris": [
+        "magnet:?xt=urn:btih:00712d7327b749cf1c2577551dbd1fb7cf85270c"
+      ],
+      "uploadDate": "2024-04-19T23:00:00.000Z",
+      "fileSize": "600 MB"
+    }
+  ]
 }
